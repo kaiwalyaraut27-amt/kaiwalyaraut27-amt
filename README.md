@@ -3,8 +3,8 @@
 <!-- Replace YOUR_USERNAME with your GitHub username -->
 <!-- Replace YOUR_NAME with your actual name -->
 
-# Hi there, I'm [YOUR_NAME] 👋
-### AI/ML Engineer & Full Stack Developer | B.Tech CSE (AI/ML) — 3rd Year
+# Hi there, I'm Kaiwalya Raut 👋
+### AI/ML Engineer & Full Stack Developer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://YOUR_PORTFOLIO_URL)
@@ -19,9 +19,9 @@
 ```python
 class Developer:
     def __init__(self):
-        self.name         = "[YOUR_NAME]"
-        self.degree       = "B.Tech CSE (AI/ML Specialization) — 3rd Year"
-        self.focus        = ["Full Stack AI Development", "LLM Engineering", "Agentic AI"]
+        self.name         = "Kaiwalya Raut"
+        self.degree       = "B.Tech CSE (AI/ML)
+        self.focus        = ["Full Stack AI Development", "LLM Engineering", "Agentic AI", "Full Stack Web Development]
         self.currently    = "Building AI-powered full stack applications"
         self.goal         = "Intern → SDE/MLE at a company that ships real products"
         self.fun_fact     = "I debug models the same way I debug code — one layer at a time 🧠"
@@ -91,29 +91,16 @@ me.say_hi()
 
 ---
 
-## 📌 Featured Projects
-
-> ⚡ *Pinned repos below — each one tells a story.*
-
-| Project | Description | Stack |
-|--------|-------------|-------|
-| 🫀 **CardioScan** | AI-powered cardiac analysis tool | Python, Deep Learning, CV |
-| 🔗 **[Project 2]** | *Add your project description* | *Add stack* |
-| 🌐 **[Project 3]** | *Add your project description* | *Add stack* |
-| 🤖 **[Project 4]** | *Add your project description* | *Add stack* |
-| 📊 **[Project 5]** | *Add your project description* | *Add stack* |
-
----
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-![YOUR_USERNAME's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![YOUR_USERNAME's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kaiwalyaraut27-amt&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kaiwalyaraut27-amt&layout=compact&theme=tokyonight&hide_border=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=kaiwalyaraut27&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -123,8 +110,6 @@ me.say_hi()
 
 - 🎓 B.Tech CSE (AI/ML) — specializing at the intersection of software engineering and intelligence
 - 🏅 Hackathon participant & project builder
-- 🌾 Rural internship experience — tech for social good
-- 📈 500+ LinkedIn connections as a 2nd year student
 - 🔄 Documenting the full journey: from student to engineer
 
 ---
@@ -135,9 +120,9 @@ me.say_hi()
 
 Got an interesting project, internship opportunity, or just want to talk AI?
 
-**DM me on [LinkedIn](https://linkedin.com/in/YOUR_LINKEDIN) or drop a mail at `YOUR_EMAIL@gmail.com`**
+**DM me on [LinkedIn](www.linkedin.com/in/kaiwalya-raut-534187363) or drop a mail at `kaiwalyaraut27@gmail.com`**
 
-![Visitor Count](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=for-the-badge)
+![Visitor Count](https://komarev.com/ghpvc/?username=kaiwalyaraut27-amt&color=blueviolet&style=for-the-badge)
 
 </div>
 
