@@ -107,7 +107,7 @@ me.say_hi()
 
 Got an interesting project, internship opportunity, or just want to talk AI?
 
-**DM me on [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/kaiwalya-raut-534187363) or drop a mail at `kaiwalyaraut27@gmail.com`**
+**DM me on LinkedIn (link at top) or drop a mail at `kaiwalyaraut27@gmail.com`**
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=kaiwalyaraut27-amt&color=blueviolet&style=for-the-badge)
 
