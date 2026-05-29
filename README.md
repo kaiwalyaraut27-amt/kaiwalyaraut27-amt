@@ -5,7 +5,7 @@
 
 # Hi there, I'm Kaiwalya Raut 👋
 ### AI/ML Engineer & Full Stack Developer
-## Gen AI & Agentic AI
+#### Gen AI & Agentic AI
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/kaiwalya-raut-534187363)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://kaiwalyarautportfolio.netlify.app/)
