@@ -22,7 +22,7 @@ class Developer:
     def __init__(self):
         self.name         = "Kaiwalya Raut"
         self.degree       = "B.Tech CSE (AI/ML)
-        self.focus        = ["Full Stack AI Development", "LLM Engineering", "Agentic AI", "Full Stack Web Development]
+        self.focus        = ["Full Stack AI Development", "LLM Engineering", "Agentic AI", "Full Stack Web Development"]
         self.currently    = "Building AI-powered full stack applications"
         self.goal         = "Intern → SDE/MLE at a company that ships real products"
         self.fun_fact     = "I debug models the same way I debug code — one layer at a time 🧠"
